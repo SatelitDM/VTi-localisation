@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-09-20 09:37+0100\n"
+"PO-Revision-Date: 2016-09-20 15:47+0100\n"
 "Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -12859,47 +12859,47 @@ msgstr ""
 
 #
 msgid "AutoResolution on/off"
-msgstr ""
+msgstr "Automatické rozlíšenie zap/vyp"
 
 #
 msgid "AutoResolution is disabled"
-msgstr ""
+msgstr "Automatické rozlíšenie je vypnuté"
 
 #
 msgid "AutoResolution is enabled"
-msgstr ""
+msgstr "Automatické rozlíšenie je zapnuté"
 
 #
 msgid "HDMI-CEC TV on"
-msgstr ""
+msgstr "HDMI-CEC TV zap."
 
 #
 msgid "HDMI-CEC TV off"
-msgstr ""
+msgstr "HDMI-CEC TV vyp."
 
 #
 msgid "HDMI-CEC A/V on"
-msgstr ""
+msgstr "HDMI-CEC A/V zap."
 
 #
 msgid "HDMI-CEC A/V off"
-msgstr ""
+msgstr "HDMI-CEC A/V vyp."
 
 #
 msgid "HDMI-CEC A/V Volume +"
-msgstr ""
+msgstr "HDMI-CEC hlasitosť A/V +"
 
 #
 msgid "HDMI-CEC A/V Volume -"
-msgstr ""
+msgstr "HDMI-CEC hlasitosť A/V -"
 
 #
 msgid "HDMI-CEC A/V Volume mute"
-msgstr ""
+msgstr "HDMI-CEC umlčať zvuk A/V"
 
 #
 msgid "HDMI-CEC message was sent"
-msgstr ""
+msgstr "Správa HDMI-CEC bola poslaná"
 
 #
 msgid "Power long"
@@ -12948,23 +12948,23 @@ msgstr ""
 
 #
 msgid "Stop running recordings"
-msgstr ""
+msgstr "Zastaviť bežiace nahrávanie"
 
 #
 msgid "Previous timeshift event"
-msgstr ""
+msgstr "Predchádzajúci program časového posunu"
 
 #
 msgid "Next timeshift event"
-msgstr ""
+msgstr "Nasledujúci program časového posunu"
 
 #
 msgid "Select timeshift event"
-msgstr ""
+msgstr "Zvoľte program časového posunu"
 
 #
 msgid "Select Buttons"
-msgstr ""
+msgstr "Zvoľte tlačidlá"
 
 #
 msgid "MultiQuickButton button selection"
@@ -13166,25 +13166,25 @@ msgstr ""
 # File: ../src/plugin.py, line: 77
 #: ../src/plugin.py:77
 msgid "VU+ standby => TV activity:"
-msgstr ""
+msgstr "VU+ pohot. rež. => TV činnosť:"
 
 #
 # File: ../src/plugin.py, line: 78
 #: ../src/plugin.py:78
 msgid "VU+ deepstandby => TV activity:"
-msgstr ""
+msgstr "VU+ hlboký spánok => TV činnosť:"
 
 #
 # File: ../src/plugin.py, line: 79
 #: ../src/plugin.py:79
 msgid "VU+ on from standby => TV activity:"
-msgstr ""
+msgstr "VU+ zapnúť z pohot. režimu => TV činnosť:"
 
 #
 # File: ../src/plugin.py, line: 80
 #: ../src/plugin.py:80
 msgid "VU+ on from deepstandby => TV activity:"
-msgstr ""
+msgstr "VU+ zapnúť z hlbok. spánku => TV činnosť:"
 
 #
 # File: ../src/plugin.py, line: 85
@@ -14118,15 +14118,15 @@ msgstr ""
 
 #
 msgid "Common configuration backup finished succesfully"
-msgstr ""
+msgstr "Zálohovanie všeobecných nastavení skončilo úspešne"
 
 #
 msgid "Backup of common configurations failed"
-msgstr ""
+msgstr "Zálohovanie všeobecných nastavení zlyhalo"
 
 #
 msgid "Restoring settings finished successfully"
-msgstr ""
+msgstr "Obnova nastavení skončila úspešne"
 
 #
 msgid "Restoring settings failed"
@@ -14137,10 +14137,12 @@ msgid ""
 "Are you sure you want to run\n"
 "following script:\n"
 msgstr ""
+"Naozaj chcete spustiť\n"
+"nasledujúci skript:\n"
 
 #
 msgid "VTI BackupSuite is running personal script ..."
-msgstr ""
+msgstr "Centrum zálohovanie VTI spúšťa osobný skript..."
 
 #
 msgid "News"
@@ -14228,11 +14230,11 @@ msgstr ""
 
 #
 msgid "Image Flash Tool"
-msgstr ""
+msgstr "Nástroj na inštalovanie image"
 
 #
 msgid "download images from vuplus-support.org and flash it"
-msgstr ""
+msgstr "Prevziať image z vuplus-support.org a nainštalovať ho"
 
 #
 msgid "Driver Manager"
@@ -14272,11 +14274,11 @@ msgstr "Pokročilá inštalácia ipkg"
 
 #
 msgid "Install local ipkg with --force overwrite"
-msgstr ""
+msgstr "Nainštalovať miestne ipkg s --force overwrite"
 
 #
 msgid "VTI manual Addon Installer"
-msgstr ""
+msgstr "VTI - Ručný inštalátor doplnkov"
 
 #
 msgid "Update Image"
@@ -14360,11 +14362,11 @@ msgstr "Aktivovať/zmeniť heslo do Panela VTI"
 
 #
 msgid "Set Root Password"
-msgstr ""
+msgstr "Nastaviť koreňové heslo"
 
 #
 msgid "set root password of your stb"
-msgstr ""
+msgstr "Nastaviť koreňové heslo VU+"
 
 #
 msgid "enable/disable Systemservices"
@@ -14508,7 +14510,7 @@ msgstr ""
 
 #
 msgid "Show Networkconnections"
-msgstr ""
+msgstr "Zobraziť sieťové pripojenia"
 
 #
 msgid "show all connected sockets from ip-stack"
@@ -14516,27 +14518,27 @@ msgstr ""
 
 #
 msgid "Show Systemmemory Info"
-msgstr ""
+msgstr "Zobraziť informáciu o systémovej pamäti"
 
 #
 msgid "show whole system memory usage"
-msgstr ""
+msgstr "zobraziť využitie systémovej pamäte"
 
 #
 msgid "Show Networkdetails"
-msgstr ""
+msgstr "Zobraziť podrobnosti o sieti"
 
 #
 msgid "shows assigned ip-adresses, routingtable and nameserver"
-msgstr ""
+msgstr "zobrazí priradené adresy IP, smerrovaciu tabuľku a server mien"
 
 #
 msgid "Show diskspace"
-msgstr ""
+msgstr "Zobraziť miesto na disku"
 
 #
 msgid "show diskpace"
-msgstr ""
+msgstr "zobrazí miesto na disku"
 
 #
 msgid "Image Info"
@@ -14899,7 +14901,7 @@ msgstr "Spráca CAMov"
 
 #
 msgid "Select Cam and press OK to activate"
-msgstr ""
+msgstr "Zvoľte Cam a stlačením OK ho aktivujte"
 
 #
 msgid "NO CAM ACTIVE !!! Cant restart current cam "
@@ -15820,12 +15822,12 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:875
 msgid "Stream"
-msgstr ""
+msgstr "Stream"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:889
 #, python-format
 msgid "%d"
-msgstr ""
+msgstr "%d"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:902
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:909
@@ -15834,22 +15836,22 @@ msgstr ""
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:935
 #, python-format
 msgid "%d Min"
-msgstr ""
+msgstr "%d min"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:939
 #, python-format
 msgid "%d %%"
-msgstr ""
+msgstr "%d %%"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:969
 #, python-format
 msgid "%d MB"
-msgstr ""
+msgstr "%d MB"
 
 #: .../enigma2-plugins/infobartunerstate/src/InfoBarTunerState.py:973
 #, python-format
 msgid "%d GB"
-msgstr ""
+msgstr "%d GB"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:37
 msgid "InfoBar Tuner State"
@@ -15861,47 +15863,47 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:49
 msgid "Type (Icon)"
-msgstr ""
+msgstr "Typ (ikona)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:50
 msgid "Type (Text)"
-msgstr ""
+msgstr "Typ (text)"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:52
 msgid "Tuner Type"
-msgstr ""
+msgstr "Typ tunera"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:53
 msgid "Channel Number"
-msgstr ""
+msgstr "Číslo stanice"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:54
 msgid "Channel Name"
-msgstr ""
+msgstr "Názov stanice"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:56
 msgid "Time Left / Duration"
-msgstr ""
+msgstr "Zvyšný čas/trvanie"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:57
 msgid "Time Left"
-msgstr ""
+msgstr "Zvyšný čas"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:58
 msgid "Time Elapsed"
-msgstr ""
+msgstr "Uplynulý čas"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:59
 msgid "Begin"
-msgstr ""
+msgstr "Začiatok"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:60
 msgid "End"
-msgstr ""
+msgstr "Koniec"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:61
 msgid "Duration"
-msgstr ""
+msgstr "Trvanie"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:62
 msgid "Timer Progress (Graphical)"
@@ -15929,55 +15931,55 @@ msgstr ""
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:70
 msgid "File Size"
-msgstr ""
+msgstr "Veľkosť súboru"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:71
 msgid "Free Space"
-msgstr ""
+msgstr "Voľné miesto"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:76
 msgid "HH:MM"
-msgstr ""
+msgstr "HH:MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:77
 msgid "DD.MM HH:MM"
-msgstr ""
+msgstr "DD.MM HH:MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:78
 msgid "MM/DD HH:MM"
-msgstr ""
+msgstr "MM/DD HH:MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:79
 msgid "DD.MM.YYYY HH:MM"
-msgstr ""
+msgstr "DD.MM.RRRR HH:MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:80
 msgid "YYYY/MM/DD HH:MM"
-msgstr ""
+msgstr "RRRR/MM/DD HH:MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:81
 msgid "HH:MM DD.MM"
-msgstr ""
+msgstr "HH:MM DD.MM"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:82
 msgid "HH:MM MM/DD"
-msgstr ""
+msgstr "HH:MM MM/DD"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:83
 msgid "HH:MM DD.MM.YYYY"
-msgstr ""
+msgstr "HH:MM DD.MM.RRRR"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:84
 msgid "HH:MM YYYY/MM/DD"
-msgstr ""
+msgstr "HH:MM RRRR/MM/DD"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:141
 msgid "configuration"
-msgstr ""
+msgstr "Nastavenie"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:190
 msgid "Nothing running"
-msgstr ""
+msgstr "Nič nebeží"
 
 #: .../enigma2-plugins/infobartunerstate/src/plugin.py:194
 msgid "InfoBarTunerState is disabled"
@@ -15990,97 +15992,97 @@ msgid "Not easy way to start EasyMedia"
 msgstr ""
 
 msgid "Music player:"
-msgstr ""
+msgstr "Prehrávač hudby:"
 
 msgid "Files browser:"
-msgstr ""
+msgstr "Prehľadávač súborov:"
 
 msgid "Show bookmarks:"
-msgstr ""
+msgstr "Zobraziť záložky:"
 
 msgid "YouTube player:"
-msgstr ""
+msgstr "Prehrávač YouTube:"
 
 msgid "VLC player:"
-msgstr ""
+msgstr "Prehrávač VLC:"
 
 msgid "DVD player:"
-msgstr ""
+msgstr "Prehrávač DVD:"
 
 msgid "Weather plugin:"
-msgstr ""
+msgstr "Modul počasia:"
 
 msgid "NetRadio player:"
-msgstr ""
+msgstr "Prehrávač NetRadio:"
 
 msgid "Show Merlin-iDream:"
-msgstr ""
+msgstr "Zobraziť Merlin-iDream:"
 
 msgid "ZDFmediathek player:"
-msgstr ""
+msgstr "Prehrávač ZDFmediathek:"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Obrázky"
 
 msgid "Music"
-msgstr ""
+msgstr "Hudba"
 
 msgid "Weather"
-msgstr ""
+msgstr "Počasie"
 
 msgid "Files"
-msgstr ""
+msgstr "Súbory"
 
 msgid "SHOUTcast"
-msgstr ""
+msgstr "SHOUTcast"
 
 msgid "iDream"
-msgstr ""
+msgstr "iDream"
 
 msgid "MyTube Player"
-msgstr ""
+msgstr "Prehrávač MyTube"
 
 msgid "VLC Player"
-msgstr ""
+msgstr "VLC Player"
 
 msgid "ZDFmediathek"
-msgstr ""
+msgstr "ZDFmediathek"
 
 msgid "Filebrowser"
 msgstr ""
 
 msgid "DreamExplorer"
-msgstr ""
+msgstr "DreamExplorer"
 
 msgid "Picture-player is not installed!"
-msgstr ""
+msgstr "Prehrávač obrázkov nie je nainštalovaný."
 
 msgid "No Music-Player installed!"
-msgstr ""
+msgstr "Prehrávač hudby nie je nainštalovaný."
 
 msgid "No File-Manager installed!"
-msgstr ""
+msgstr "Prehľadávač súborov nie je nainštalovaný."
 
 msgid "Weather Plugin is not installed!"
-msgstr ""
+msgstr "Modul počasia nie je nainštalovaný."
 
 msgid "DVDPlayer Plugin is not installed!"
-msgstr ""
+msgstr "Modul DVDPlayer nie je nainštalovaný."
 
 msgid "MyTube Plugin is not installed!"
-msgstr ""
+msgstr "Modul MyTube nie je nainštalovaný."
 
 msgid "SHOUTcast Plugin is not installed!"
-msgstr ""
+msgstr "Modul SHOUTcast nie je nainštalovaný."
 
 msgid "ZDFmediathek Plugin is not installed!"
-msgstr ""
+msgstr "Modul ZDFmediathek nie je nainštalovaný."
 
 msgid "VLC Player is not installed!"
-msgstr ""
+msgstr "VLC Player nie je nainštalovaný."
 
 msgid "Merlin iDream is not installed!"
-msgstr ""
+msgstr "Merlin iDream nie je nainštalovaný."
 
 msgid "EasyMedia settings..."
 msgstr ""
@@ -16089,16 +16091,16 @@ msgid "Select bookmark..."
 msgstr ""
 
 msgid "Tv/Radio"
-msgstr ""
+msgstr "TV / Rádio"
 
 msgid "Show tv/radio switch:"
 msgstr ""
 
 msgid "TV-mode"
-msgstr ""
+msgstr "Režim TV"
 
 msgid "Radio-mode"
-msgstr ""
+msgstr "Režim Rádio"
 
 msgid "MyVideo Player is not installed!"
 msgstr ""
@@ -16133,12 +16135,12 @@ msgstr ""
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:171
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:283
 msgid "Channel: "
-msgstr ""
+msgstr "Stanica:"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:177
 #, python-format
 msgid "%s does not exist!"
-msgstr ""
+msgstr "%s neexistuje!"
 
 #: /home/aliabdul/dream/enigma2-plugins/mosaic/src/plugin.py:298
 msgid "Error while creating screenshot. You need grab version 0.8 or higher!"
