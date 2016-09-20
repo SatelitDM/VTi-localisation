@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-09-19 11:47+0100\n"
+"PO-Revision-Date: 2016-09-20 09:37+0100\n"
 "Last-Translator: Ladislav Filo <ladislav@lacofilo.eu>\n"
 "Language-Team: none\n"
 "Language: sk\n"
@@ -393,7 +393,7 @@ msgstr "(Prepnúť)"
 
 #
 msgid "(de)activate Picture in Picture..."
-msgstr "vypnúť/zapnúť obraz v obraze..."
+msgstr "Zapnúť/vypnúť obraz v obraze..."
 
 #
 msgid "(empty)"
@@ -433,11 +433,11 @@ msgstr "1-2. Výrobné číslo (zvyšné číslice SN)"
 
 #
 msgid "1. Drop WvDial"
-msgstr ""
+msgstr "1. Odpojiť"
 
 #
 msgid "1. Load a Mobile Broadband Device"
-msgstr ""
+msgstr "1. Načítať mobilné zariadenie"
 
 #
 msgid "1.0"
@@ -505,11 +505,11 @@ msgstr "2 Kontakt"
 
 #
 msgid "2. Set up a Mobile Broadband Device"
-msgstr ""
+msgstr "2. Pripojiť mobilné zariadenie"
 
 #
 msgid "2. Unload a Mobile Broadband Device"
-msgstr ""
+msgstr "2. Odpojiť mobilné zariadenie"
 
 #
 msgid "20"
@@ -541,7 +541,7 @@ msgstr "3. Hotovo"
 
 #
 msgid "3. Generate a WvDial profile"
-msgstr ""
+msgstr "3. Vytvoriť profil WvDial"
 
 #
 msgid "30 minutes"
@@ -814,7 +814,7 @@ msgstr "Prístupový bod:"
 
 #
 msgid "Action after summit"
-msgstr ""
+msgstr "Činnosť po dokončení"
 
 #
 msgid "Action on long powerbutton press"
@@ -1129,7 +1129,7 @@ msgstr "Automaticky rozdeľovať kapitoly každých ? minút (0 = nikdy)"
 
 #
 msgid "Auto flesh"
-msgstr "Automatické flešovanie"
+msgstr "Vylepšenie farby pleti"
 
 #
 msgid "Auto scart switching"
@@ -1318,7 +1318,7 @@ msgstr "Štart/Stop prehľadávača"
 
 #
 msgid "BrowserMain"
-msgstr ""
+msgstr "Prehľadávač"
 
 #
 msgid "Burn DVD"
@@ -1344,7 +1344,7 @@ msgstr "Po stlačení tlačidla OK na diaľkovom ovládači sa zobrazia informá
 
 #
 msgid "Bypass HDMI EDID Check"
-msgstr ""
+msgstr "Obísť kontrolu HDMI EDID"
 
 #
 msgid "C"
@@ -1388,7 +1388,7 @@ msgstr "Uchovať zmenšeniny"
 
 #
 msgid "Can NOT generate passphrase"
-msgstr ""
+msgstr "Nemôžem generovať heslo"
 
 #
 #, python-format
@@ -1671,11 +1671,11 @@ msgstr "Zatvoriť výber titulkov"
 
 #
 msgid "Code rate HP"
-msgstr ""
+msgstr "Kódová rýchlosť HP"
 
 #
 msgid "Code rate LP"
-msgstr ""
+msgstr "Kódová rýchlosť LP"
 
 #
 msgid "Collection name"
@@ -3420,7 +3420,7 @@ msgstr ""
 
 #
 msgid "Ignore Broadcast SSID"
-msgstr ""
+msgstr "Ignorovať SSID vysielania"
 
 #
 msgid "Image"
@@ -3446,7 +3446,7 @@ msgstr "Zahrnúť voliteľné informácie"
 
 #
 msgid "Include settop information"
-msgstr ""
+msgstr "Zahrnúť informácie VU+"
 
 #
 msgid "Increased voltage"
@@ -3510,7 +3510,7 @@ msgstr "Vstup"
 
 #
 msgid "Input Hidden ESSID"
-msgstr ""
+msgstr "Zadať skrytý ESSID"
 
 #
 msgid "Input device setup"
@@ -3626,6 +3626,8 @@ msgid ""
 "Invalid URL!!(Empty)\n"
 "Please, Input to the URL."
 msgstr ""
+"Neplatná URL! (prázdna)\n"
+"Zadajte URL."
 
 #
 msgid "Invalid URL. Please check again!!"
@@ -4707,6 +4709,8 @@ msgid ""
 "Opera Browser was not running.\n"
 "Please running browser using [File]>[Start/Stop] menu."
 msgstr ""
+"Prehľadávač Opera nebeží.\n"
+"Spusťte ho cez menu Súbor > Štart/Stop."
 
 #
 msgid "Opera Web Browser"
@@ -5351,7 +5355,7 @@ msgstr "Pripravujem... Čakajte..."
 
 #
 msgid "Press 'EXIT' key to finish tune test."
-msgstr ""
+msgstr "Stlačením EXIT ukončite test ladenia."
 
 #
 msgid "Press Front CH +"
@@ -5432,7 +5436,7 @@ msgstr "Stlačte OK pre prepnutie výberu."
 
 #
 msgid "Press arrow up from frontpanel to start loading."
-msgstr ""
+msgstr "Na prednom paneli stlačte šípku nahor, aby začalo načítanie."
 
 #
 msgid "Press yellow to set this interface as default interface."
@@ -5452,7 +5456,7 @@ msgstr "Primárny DNS"
 
 #
 msgid "Prioritize updates of packages (--force-overwrite)"
-msgstr ""
+msgstr "Aktualizácie majú prednosť (--force-overwrite)"
 
 #
 msgid "Priority"
@@ -6585,7 +6589,7 @@ msgstr "Zobraziť priebeh v zozname filmov"
 
 #
 msgid "Show service list at TV / Radio mode switch"
-msgstr ""
+msgstr "Pri prepínaní TV--Rádio zobraziť zoznam staníc"
 
 #
 msgid "Show service name at number zap"
@@ -7255,6 +7259,8 @@ msgid ""
 "You can now configure the screen by displaying some test picture. Do you "
 "want to do that now?"
 msgstr ""
+"Teraz treba nastaviť vstupný port.\n"
+"Môžete nastaviť obraz pomocou skúšobných obrazcov. Chcete to teraz urobiť?"
 
 #
 msgid "The installation of the default services lists is finished."
@@ -7701,15 +7707,15 @@ msgstr ""
 
 #
 msgid "Touch LED Brightness at Deep Standby"
-msgstr ""
+msgstr "Jas LED v hlbokom spánku"
 
 #
 msgid "Touch LED Brightness at Normal state"
-msgstr ""
+msgstr "Jas LED v zapnutom stave"
 
 #
 msgid "Touch LED Brightness at Standby"
-msgstr ""
+msgstr "Jas LED v pohot. režime"
 
 #
 msgid "Track"
@@ -7726,7 +7732,7 @@ msgstr "Nastavenie transkódovania"
 #
 msgid ""
 "Transcoding can be started when there is no corresponding channel recordings."
-msgstr ""
+msgstr "Transkódovanie sa dá spustiť, keď nie sú tunery obsadené nahrávaním."
 
 #
 msgid "TranscodingSetup"
@@ -8035,7 +8041,7 @@ msgstr "Použiť zariadenie"
 
 #
 msgid "Use EIT EPG"
-msgstr ""
+msgstr "Použiť EIT EPG"
 
 #
 msgid "Use EXIT-Button to leave movie player"
@@ -8059,11 +8065,11 @@ msgstr "Ručne nastaviť server DNS"
 
 #
 msgid "Use PiP at EPGBar"
-msgstr ""
+msgstr "Použiť obraz v obraze (PIP) v infolište"
 
 #
 msgid "Use PictureInGraphic (PiG)"
-msgstr ""
+msgstr "Použiť obraz v grafike (PiG)"
 
 #
 msgid "Use Power Measurement"
@@ -8087,7 +8093,7 @@ msgstr "Použiť maticový režim pre zoznam staníc"
 
 #
 msgid "Use package maintainer config files"
-msgstr ""
+msgstr "Pri aktualizácii prepísať konfiguračné súbory"
 
 #
 msgid "Use power measurement"
@@ -8095,11 +8101,11 @@ msgstr "Použiť meranie spotreby"
 
 #
 msgid "Use silent recording mode"
-msgstr ""
+msgstr "Pri nahrávaní použiť tichý režim"
 
 #
 msgid "Use startup service for leaving standby"
-msgstr ""
+msgstr "Na návrat z pohot. režimu použiť úvodnú stanicu"
 
 #
 msgid "Use the Networkwizard to configure selected network adapter"
@@ -8605,7 +8611,7 @@ msgstr "Áno, vždy"
 
 #
 msgid "Yes, and delete this movie"
-msgstr "Áno, a zmazať tento film"
+msgstr "Áno a zmazať tento film"
 
 #
 msgid "Yes, delete this movie and go back to movie list"
@@ -8637,7 +8643,7 @@ msgstr "Áno, teraz obnoviť nastavenia"
 
 #
 msgid "Yes, returning to movie list"
-msgstr "Áno, vrátiť sa do zoznamu filmov"
+msgstr "Áno a vrátiť sa do zoznamu filmov"
 
 #
 msgid "Yes, view the tutorial"
@@ -9249,7 +9255,7 @@ msgstr "zrušiť"
 
 #
 msgid "disable move mode"
-msgstr "zrušiť presun"
+msgstr "Zrušiť presun"
 
 #
 msgid "disabled"
@@ -9293,7 +9299,7 @@ msgstr "zapnúť úpravu obľúbených"
 
 #
 msgid "enable move mode"
-msgstr "zapnúť presun"
+msgstr "Zapnúť presun"
 
 #
 msgid "enabled"
@@ -10745,7 +10751,7 @@ msgstr "Spustiť nasledujúci mediálny súbor"
 
 #
 msgid "Yes, and play next media file"
-msgstr "Áno, a prehrať nasledujúci mediálny súbor"
+msgstr "Áno a prehrať nasledujúci mediálny súbor"
 
 #
 msgid "Play next media file in directory"
@@ -10841,7 +10847,7 @@ msgstr "Vypnúť rozdelenie obrazovky"
 
 #
 msgid "(de)activate Split Screen..."
-msgstr "vypnúť/zapnúť rozdelenie obrazovky"
+msgstr "Zapnúť/vypnúť rozdelenie obrazovky"
 
 #
 msgid "Show infobar on channel change at split screen"
@@ -10873,7 +10879,7 @@ msgstr "Vypnúť prepínanie zvuku"
 
 #
 msgid "(de)activate Audio Zap..."
-msgstr "vypnúť/zapnúť prepínanie zvuku..."
+msgstr "Zapnúť/vypnúť prepínanie zvuku..."
 
 #
 msgid "Start last service when returning to movie list (PiG)"
@@ -12913,7 +12919,7 @@ msgstr "Zobraziť infolištu EPG..."
 
 #
 msgid "(De)/Activate SplitScreen"
-msgstr "vypnúť/zapnúť rozdelenie obrazovky"
+msgstr "Zapnúť/vypnúť rozdelenie obrazovky"
 
 #
 msgid "(De)/Activate AudioZap"
@@ -15310,7 +15316,7 @@ msgstr "Image: %s"
 
 #
 msgid "Download image from vuplus-support.org and flash it"
-msgstr "Prevziať image z vuplus-support.org a flešnúť ho"
+msgstr "Prevziať image z vuplus-support.org a nainštalovať ho"
 
 #
 msgid "Sorry ..."
